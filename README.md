@@ -7,3 +7,5 @@ This is done in through two main tasks:
 
 - Subjectivity/Objectivity detection, checks whether a sentence has some subjective components within it or not.
 - Polarity classification, checks whether a text has a negative or positive connotation.
+
+Check the Report for more information
