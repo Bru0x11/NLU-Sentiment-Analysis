@@ -1,4 +1,4 @@
-# Sentimen Analysis for Movie Reviews
+# Sentiment Analysis for Movie Reviews
 
 Sentiment Analysis research has become very popular in the past years especially thanks to the large amount of information available online.
 With the advent of the social web, opinions have become really common and thaks to that, product review mining has become a really important area of reasearch in Natural Language Processing.
